@@ -260,3 +260,11 @@ nav a:hover {
   display: block;
   margin: 15px auto;  /* centers the image */
 }
+
+footer {
+  text-align: center;
+  margin: 40px 0 20px 0;
+  font-size: 14px;
+  color: #888888;
+  font-family: 'Quicksand', sans-serif;
+}
