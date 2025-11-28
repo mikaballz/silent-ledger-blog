@@ -1,7 +1,7 @@
 /* POST PAGE STYLES */
 body {
   font-family: 'Quicksand', Arial, sans-serif;
-  background: url('../images/blogbackground.jpg') no-repeat center center fixed;
+  background: url('/images/blogbackground.jpg') no-repeat center center fixed;
   background-size: cover;
   margin: 0;
   padding: 40px;
