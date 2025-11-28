@@ -1,7 +1,7 @@
 /* BODY */
 body {
   font-family: 'Quicksand', Arial, sans-serif;
-  background: url('../images/blogbackground.jpg') no-repeat center center fixed;
+  background: url('/images/blogbackground.jpg') no-repeat center center fixed;
   background-size: cover; /* fills the screen */
   margin: 0;
   padding: 40px;
@@ -62,6 +62,24 @@ nav a:hover {
   background-color: #E8B8B8; /* dusty rose hover */
   color: #FFFFFF;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* soft hover shadow */
+}
+
+/* INTRO BLURB */
+.intro {
+  text-align: center;
+  margin-bottom: 40px; /* space before home-content */
+}
+
+.intro p {
+  font-family: 'Playfair Display', serif; /* elegant serif font */
+  font-size: 20px;
+  color: #A89F9F; /* soft gray */
+  background-color: rgba(255, 253, 249, 0.7); /* subtle overlay for readability */
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05); /* airy shadow for elegance */
+  line-height: 1.6;
 }
 
 /* SPLIT HOME LAYOUT */
