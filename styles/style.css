@@ -1,7 +1,8 @@
+/* BODY */
 body {
   font-family: 'Quicksand', Arial, sans-serif;
   background: url('../images/blogbackground.jpg') no-repeat center center fixed;
-  background-size: cover;
+  background-size: cover; /* fills the screen */
   margin: 0;
   padding: 40px;
   color: #333333;
